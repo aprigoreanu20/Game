@@ -5,7 +5,7 @@ This project represents a is a grid-based adventure game written in Java. The pl
 - Start the Game: The player spawns on a grid. The grid is randomly generated and looks different for each game.
 - Move across the grid using the buttons.
 -  Based on their type, the cells have different properties:
-  - Empty Cell: Nothing happens.
+-  - Empty Cell: Nothing happens.
   - Sanctuary: Regain life and mana.
   - Enemy Cell: An enemy challenged the player to battle. The two must fight until one of them is defeated.
   - Portal Cell: Complete the current level; a new grid is generated.
