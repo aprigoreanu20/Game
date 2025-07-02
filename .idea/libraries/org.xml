@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/json-simple-1.1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/junit-4.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/hamcrest-core-1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/junit-4.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/junit-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/json-20240303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/json-simple-1.1.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/hamcrest-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PROIECT/out/production/TemaPOO/org/json-simple-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
